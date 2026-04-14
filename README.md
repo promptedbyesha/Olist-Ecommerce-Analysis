@@ -7,6 +7,11 @@ revenue concentration across 99,441 real Brazilian e-commerce orders.
 ## Tools
 SQL (MySQL) | Python (pandas, seaborn) | Tableau Public
 
+## 📁 Dataset
+
+Olist Brazilian E-commerce Dataset (Kaggle):  
+https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce
+
 ## Key Findings
 - 1.79% shipping-to-delivery drop-off = ~1,200 lost orders at scale
 - Month-2 cohort retention ~30–35%; heavy dependence on new acquisition
